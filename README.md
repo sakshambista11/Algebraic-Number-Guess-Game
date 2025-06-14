@@ -8,7 +8,7 @@ git clone https://github.com/sakshambista11/Algebraic-Number-Guess-Game.git
 cd Algebraic-Number-Guess-Game
 
 # run the script
-python guessing_game.py
+Algebraic-Number-Guess-Game.py
 ```
 Requires Python 3.10+ (no external libraries).
 
